@@ -1,0 +1,188 @@
+/*Now the CSS*/
+.directions-text {
+  left: 17px;
+  top: 82px;
+  position: absolute;
+  color: white;
+  font-family: adamcgpro;
+  font-size: 24px;
+}
+.tree-directions {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 105px;
+  left: 30px;
+  overflow: hidden;
+  cursor: pointer;
+  padding: 10px;
+}
+.tree-directions img {
+  width: 30px;
+  height: 30px;
+  display: block;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  display: none;
+}
+.tree-directions img.directions-symbol-active {
+  display: block;
+}
+.tree-directions img.direction-symbol-hidden {
+  display: none;
+}
+.tree-directions li.directions-li-open {
+  display: block;
+}
+.directions-open {
+  width: 420px;
+  height: 80px;
+}
+
+.tree-directions li {
+  list-style-type: circle;
+  color: white;
+  line-height: 20px;
+  display: none;
+}
+.node {
+  cursor: pointer;
+}
+
+.overlay{
+    background-image: url("../../Assets/treebackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size:14px;
+  font-family:sans-serif;
+  background: #0052c0; color: white; border: 1px solid #94a0b4;
+  font-weight: bold;
+
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+  opacity: .7;
+}
+
+.templink {
+  fill: none;
+  stroke: red;
+  stroke-width: 3px;
+}
+
+.ghostCircle.show{
+    display:block;
+}
+
+.ghostCircle, .activeDrag .ghostCircle{
+     display: none;
+}
+
+/*Time for some hover effects*/
+/*We will apply the hover effect the the lineage of the element also*/
+.node text {
+	background: #0052c0; color: white; border: 1px solid #94a0b4;
+}
+
+.person-displayer {
+  position: absolute;
+  display: none;
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  z-index: 101;
+  top: -75px;
+}
+.person-wrapper {
+  width: 100%;
+  top: 0px;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  position: relative;
+}
+.person-background {
+  width: 100%;
+  min-height: calc(100% + 160px);
+  background: black;
+  opacity: .9;
+  position: absolute;
+  z-index: 1;
+  top: -75px;
+}
+.person-wrapper img {
+  height: 400px;
+  margin-top: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: 2;
+  display: block;
+}
+.person-displayer p {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.text-wrapper {
+  margin-top: 50px;
+  position: relative;
+  width: 600px;
+  left: calc(50% - 300px);
+  z-index: 2;
+}
+p.person-name {
+  font-family: adamcgpro;
+  font-size: 32px;
+  text-align: center;
+}
+p.person-dob {
+  font-family: adamcgpro;
+  margin-top: 20px;
+  font-size: 28px;
+}
+p.person-dod {
+  font-family: adamcgpro;
+  margin-top: 20px;
+  font-size: 28px;
+}
+p.person-spouse {
+  font-family: adamcgpro;
+  margin-top: 20px;
+  font-size: 28px;
+}
+.person-description {
+  margin-top: 30px;
+  line-height: 30px;
+}
+.person-displayer-exit {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: -55px;
+  right: 0px;
+  z-index: 101;
+  opacity: 1;
+  border: 3px solid transparent;
+}
+.person-displayer-exit:hover {
+  cursor: pointer;
+  opacity: 1;
+  border: 3px solid white;
+}
+.person-displayer-exit img {
+  width: 40px;
+}

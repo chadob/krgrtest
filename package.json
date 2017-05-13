@@ -1,0 +1,15 @@
+{
+  "name": "Krgr",
+  "version": "1.0.0",
+  "description": "A website for memories and history of the Krueger family",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Oehlschlaeger-Browne",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-request-proxy": "^1.0.10"
+  }
+}

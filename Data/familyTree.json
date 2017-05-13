@@ -1,0 +1,143 @@
+{
+  "name": "Ferdinand John Krueger",
+  "spouse": {"name": "Caroline Elizabeth Hamel", "married": "9/22/1898 in Bethany, OR", "picture": "", "description": ""},
+  "dob": "12/7/1878 in Bethany, OR",
+  "dod": "3/15/1973 in Portland, OR",
+  "picture": "../Assets/family.jpg",
+  "description": "This here is an announcement that everyone needs to read. It has items of great importance to everyone in the family, and if you ignore it, you will miss out on things that we want to tell you.",
+  "children": [
+    {
+      "name": "Ethel Louise Krueger",
+      "spouse": {"name": "Chester Ray Pullen", "married": "2/16/1922", "picture": "", "description": ""},
+      "dob": "6/24/1899 in Linnton, OR",
+      "dod": "5/3/1979 in Portland, OR",
+      "picture": "../Assets/Tree/FirstGen/prev.jpg",
+      "description": ""
+    },
+    {
+      "name": "Amelia Grace Krueger",
+      "spouse": {"name": "Jacob Roy Treber", "married": "11/23/1921; Portland, OR", "picture": "", "description": ""},
+      "dob": "10/7/1900 in Linnton, OR",
+      "dod": "10/12/1995",
+      "picture": "",
+      "description": "",
+      "children": [
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Joeson"
+        }
+      ]
+
+    },
+    {
+      "name": "Emma Charlotte Krueger",
+      "spouse": {"name": "Josephus Xanthic Brooks", "married": "7/21/1922 in Krueger’s home", "picture": "", "description": ""},
+      "dob": "7/23/1902 in Linnton, OR",
+      "dod": "3/23/2004 in Hillsboro, OR",
+      "picture": "",
+      "description": "",
+      "children": [
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Joeson"
+        }
+      ]
+    },
+    {
+      "name": "Albert Ferdinand Krueger",
+      "spouse": {"name": "Ann Margaret Taennler", "married": "7/27/1930 in Linnton, Oregon", "picture": "", "description": ""},
+      "dob": "12/8/1903 in Linnton, OR",
+      "dod": "1/10/1988 ",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "name": "Fred Carl Krueger",
+      "spouse": {"name": "Helen Joanna Jensen", "married": "4/3/1936 in Seattle, WA", "picture": "", "description": ""},
+      "dob": "5/1/1905 in Linnton, OR",
+      "dod": "1/7/2000 ",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "name": "Edward George Krueger",
+      "spouse": {"name": "Bernice Siedow", "married": "3/18/1934 in Vancouver, WA", "picture": "", "description": ""},
+      "remaried": {"name": "Loretta", "married": "", "picture": "", "description": ""},
+      "dob": "3/26/1907 in Linnton, OR",
+      "dod": "5/12/1961 in Homer, AK",
+      "picture": "",
+      "description": "",
+      "children": [
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Bobber"
+        },
+        {
+          "name": "Joeson"
+        }
+      ]
+    },
+    {
+      "name": "William Ernest Krueger",
+      "spouse": {"name": "Roberta Howard", "married": "4/12/1934 in Vancouver, WA", "picture": "", "description": ""},
+      "remaried": {"name": "Bonny Hopkins", "married": "", "picture": "", "description": ""},
+      "dob": "5/5/1909 in Linnton, OR",
+      "dod": "5/13/1986 in Portland, OR",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "name": "Myrtle Marie Krueger",
+      "spouse": {"name": "Charles Walter Davis", "married": "5/27/1931 in Portland, OR", "picture": "", "description": ""},
+      "dob": "5/9/1911 in Linnton, OR",
+      "dod": "Feb 1954",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "name": "Mabel Florence Krueger",
+      "spouse": {"name": "Melvin Edwin Stonebrink", "married": "6/28/1936 in Portland, OR", "picture": "", "description": ""},
+      "dob": "1/13/1913 in Linnton, OR",
+      "dod": "3/6/1977 in Seaside, OR",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "name": "Raymond John Krueger",
+      "spouse": {"name": "Leona Jeanette McClure", "married": "9/2/1937 in Hillsboro, OR", "picture": "", "description": ""},
+      "dob": "3/21/1915 in Linnton, OR",
+      "dod": "10/19/1988",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "name": "Paul Lester Krueger",
+      "spouse": {"name": "Mary Corinne Lamberson", "married": "12/13/1941 in Stevenson, WA", "picture": "", "description": ""},
+      "dob": "1/1/1920 in Linnton, OR",
+      "dod": "5/30/1989",
+      "picture": "",
+      "description": ""
+    }
+  ]
+}

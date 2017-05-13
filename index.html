@@ -1,0 +1,192 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> Krgr </title>
+		<link href="/Styles/reset.css" type="text/css" rel="stylesheet" />
+		<link href="/Styles/style.css" type="text/css" rel="stylesheet" />
+		<link href="/Styles/Modules/tree.css" type="text/css" rel="stylesheet" />
+		<link href="/Styles/Modules/books.css" type="text/css" rel="stylesheet" />
+		<link href="/Styles/Modules/album.css" type="text/css" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+
+	<body>
+		<header>
+			<ul>
+				<li> <a href="/">Home </a></li>
+				<li> <a href="/tree">Tree </a></li>
+				<li> <a href="/albums">Albums </a></li>
+				<li> <a href="/books">Books </a></li>
+				<li> <a href="https://www.youtube.com/channel/UCcHcUvumIRkxIPd4BuA38sA">Videos </a></li>
+				<li> <a href="http://krgrfamily.blogspot.com/">Blog </a></li>
+			</ul>
+		</header>
+		<section class="home">
+			<div class="countdown">
+				<span> THE NEXT KRUEGER FAMILY PICNIC: JULY 2017 </span>
+			</div>
+			<div class="slideshow">
+				<div><img src="/Assets/family.jpg"></div>
+				<div><img src="/Assets/family.jpg"></div>
+				<div><img src="/Assets/family.jpg"></div>
+				<div><img src="/Assets/family.jpg"></div>
+				<div><img src="/Assets/family.jpg"></div>
+			</div>
+			<div class="button-container">
+				<button class="share-story">Submit memories here</button>
+        <button class="share-person">Submit person here</button>
+			</div>
+			<!-- <div class="divider-bar"></div> -->
+			<div class="contact-me">
+				<form action='/contact' enctype="multipart/form-data" method='post'>
+					<label for='name'>NAME: </label>
+					<input class="email-name" size="70" type="text" name="name" >
+					<label for='email'>EMAIL: </label>
+					<input class="email-address" size="70" type="text" name="email" >
+					<label for='message'>MESSAGE:</label>
+					<textarea class="email-message" cols="70" rows="15" name="message"></textarea>
+					<label for='uploaded_file'>Select A File To Upload:</label>
+					<input class="contact-button email-attachment" type="file" name="file" multiple>
+          <button class="email-attachment-cover">Choose Files </button>
+					<input class="contact-button send-email" type="submit" value="Send" name='submit'>
+				</form>
+				<span id="message"></span>
+			</div>
+      <div class="submit-person">
+        <form action='/submit' enctype="multipart/form-data" method='post'>
+          <label for='name'>NAME: </label>
+          <input class="email-name" size="70" type="text" name="name" >
+          <label for='email'>EMAIL: </label>
+          <input class="email-address" size="70" type="text" name="email" >
+          <label for='message'>MESSAGE:</label>
+          <textarea class="email-message" cols="70" rows="15" name="message"></textarea>
+          <label for='person-name'>PERSON'S NAME: </label>
+          <input class="email-name" size="70" type="text" name="personName" >
+          <label for='person-birth'>DATE OF BIRTH: </label>
+          <input class="email-name" size="70" type="text" name="personBirth" >
+          <label for='person-death'>DATE DECEASED: </label>
+          <input class="email-name" size="70" type="text" name="personDeath" >
+          <label for='person-children'>CHILDREN'S NAMES: </label>
+          <input class="email-name" size="70" type="text" name="personChildren" >
+          <label for='person-description'>DESCRIPTION: </label>
+          <textarea class="email-message" cols="70" rows="15" name="personDescription"></textarea>
+          <label for='person-spouse'>PERSON'S SPOUSE: </label>
+          <input class="email-name" size="70" type="text" name="personSpouse" >
+          <label for='spouse-married'>MARRIAGE DATE: </label>
+          <input class="email-name" size="70" type="text" name="personMarried" >
+          <label for='uploaded_file'>SUBMIT PICTURE OF PERSON:</label>
+          <input class="contact-button person-email-attachment" type="file" name="file" multiple>
+          <button class="person-email-attachment-cover">Choose Files </button>
+          <input class="contact-button send-email" type="submit" value="Send" name='submit'>
+        </form>
+        <span id="message"></span>
+      </div>
+			<div class="announcements">
+				<div class="left-announce announcement">
+					<div class="title-wrapper">
+						<h2 class="announcement-title">WHO ARE YOU?</h2>
+					</div>
+					<p class="announcement-date"> 11/28/2016 </p>
+					<p class="announcement-message">If you haven’t done so yet, please submit your info for our family tree. You can download a form here and email it to krgrfamily@gmail.com. We would also appreciate photos and stories that we can share on our website and blog.</p>
+				</div>
+				<div class="middle-announce announcement">
+					<div class="title-wrapper">
+						<h2 class="announcement-title">HELP WANTED</h2>
+					</div>
+					<p class="announcement-date"> 11/28/2016 </p>
+					<p class="announcement-message">If you’re interested in helping with this website, we’d be more than happy to have you help! We need help in many areas: story writing, blog editing, quarterly newsletters, etc. </p>
+				</div>
+				<div class="right-announce announcement">
+					<div class="title-wrapper">
+						<h2 class="announcement-title">FINANCIAL REPORT</h2>
+					</div>
+					<p class="announcement-date"> 11/28/2016 </p>
+					<p class="announcement-message">Thank you for all the generous financial support! We have reached our financial goals for 2016 and 2017! If you still like to contribute to the picnic or would like a financial report, please contact us below.</p>
+				</div>
+			</div>
+			<div class="contact-info">
+				<span>Send us an email at  </span>
+			</div>
+		</section>
+		<section class="tree">
+			<div class="bio">
+			</div>
+			<div id="tree-container"></div>
+			<div class="person-displayer">
+				<div class="person-background">
+				</div>
+				<div class="person-displayer-exit">
+					<img src="/Assets/exit.png">
+				</div>
+				<div class="person-wrapper">
+					<div class="text-wrapper">
+					</div>
+				</div>
+			</div>
+      <span class="directions-text">Help?</span>
+			<div class="tree-directions">
+				<img class="directions-symbol-white directions-symbol-active" src="/Assets/instructions.png">
+				<img class="directions-symbol-black" src="/Assets/instructionshover.png">
+				<ul>
+				<li>Click on a name to learn more about the person</li>
+				<li>Click on a circle to hide/show that person's descendants</li>
+				<li>Mouse over a name to highlight descendants</li>
+				<li>Move the whole tree by clicking and dragging to desired location</li>
+			</div>
+			</section>
+		<section class="albums">
+				<div class="sidebar">
+					<ul>
+					</ul>
+				</div>
+				<div class="album-cover-wrapper">
+				</div>
+				<div class="picture-displayer">
+					<div class="picture-background">
+					</div>
+					<span>Click the photo to flip it over</span>
+					<div class="picture-displayer-exit">
+						<img src="/Assets/exit.png">
+					</div>
+					<div class="picture-wrapper">
+					</div>
+				</div>
+		</section>
+		<div class="book-displayer">
+			<div class="sidebar">
+				<ul>
+				</ul>
+			</div>
+			<div class="left-page">
+			</div>
+			<div class="right-page">
+			</div>
+			<div class="page-changer left-changer">
+				<img src="/Assets/prev.png">
+			</div>
+			<div class="page-changer right-changer">
+				<img src="/Assets/next.png">
+			</div>
+			<div class="book-displayer-exit">
+				<img src="/Assets/exit.png">
+			</div>
+		</div>
+		<section class="books">
+			<div class="book-cover-wrapper">
+			</div>
+		</section>
+		<!--SCRIPTS-->
+		<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> -->
+		<script type="text/javascript" src="/Vendor/jquery-2.2.0.min.js"></script>
+		<script src="https://d3js.org/d3.v3.min.js"></script>
+		<script type="text/javascript" src="/Data/books.js"></script>
+		<script type="text/javascript" src="/Scripts/page.js"></script>
+		<script type="text/javascript" src="/Scripts/routesController.js"></script>
+		<script type="text/javascript" src="/Scripts/routes.js"></script>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+		<script type="text/javascript" src="/Scripts/script.js"></script>
+		<script type="text/javascript" src="/Data/familyTree.js"></script>
+		<script type="text/javascript" src="/Scripts/populateTree.js"></script>
+	</body>
+</html>
