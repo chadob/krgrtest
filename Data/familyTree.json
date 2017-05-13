@@ -1,124 +1,540 @@
 {
-  "name": "Ferdinand John Krueger",
-  "spouse": {"name": "Caroline Elizabeth Hamel", "married": "9/22/1898 in Bethany, OR", "picture": "", "description": ""},
+  "name": "Caroline Elizabeth (Hamel) Krueger",
+  "spouse": {"name": "Ferdinand John Krueger", "married": "9/22/1898 in Bethany, OR", "picture": "", "description": ""},
   "dob": "12/7/1878 in Bethany, OR",
   "dod": "3/15/1973 in Portland, OR",
-  "picture": "../Assets/family.jpg",
-  "description": "This here is an announcement that everyone needs to read. It has items of great importance to everyone in the family, and if you ignore it, you will miss out on things that we want to tell you.",
+  "picture": "",
+  "description": "",
   "children": [
     {
       "name": "Ethel Louise Krueger",
       "spouse": {"name": "Chester Ray Pullen", "married": "2/16/1922", "picture": "", "description": ""},
-      "dob": "6/24/1899 in Linnton, OR",
+      "dob": "6/24/1899 in Phillips, OR",
       "dod": "5/3/1979 in Portland, OR",
-      "picture": "../Assets/Tree/FirstGen/prev.jpg",
-      "description": ""
+      "picture": "",
+      "description": "",
+      "children": [
+        {
+          "name": "Donald Ray Pullen",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "6/3/1927 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": []
+        },
+        {
+          "name": "David Lee Pullen",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "8/17/1933 in Portland, OR",
+          "dod": "8/20/1933 in Portland, OR",
+          "picture": "",
+          "description": "",
+          "children": []
+        }
+      ]
     },
     {
       "name": "Amelia Grace Krueger",
       "spouse": {"name": "Jacob Roy Treber", "married": "11/23/1921; Portland, OR", "picture": "", "description": ""},
-      "dob": "10/7/1900 in Linnton, OR",
+      "dob": "10/7/1900 in Phillips, OR",
       "dod": "10/12/1995",
       "picture": "",
       "description": "",
       "children": [
         {
-          "name": "Bobber"
+          "name": "Lois Virginia Treber",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "1/5/1927 in Portland, OR",
+          "dod": "1/11/1930 in Portland, OR",
+          "picture": "",
+          "description": "",
+          "children": []
         },
         {
-          "name": "Bobber"
+          "name": "Gerald 'Jerry' Treber",
+          "spouse": {"name": "Lois Estell Treber", "married": "", "picture": "", "description": ""},
+          "dob": "12/13/1930",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": []
         },
         {
-          "name": "Bobber"
-        },
-        {
-          "name": "Joeson"
+          "name": "Shirley Grace (Treber) Jensen",
+          "spouse": {"name": "Lowell D. Jensen", "married": "August 1953 in Portland, OR", "picture": "", "description": ""},
+          "dob": "11/30/1933",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": []
         }
       ]
-
     },
     {
       "name": "Emma Charlotte Krueger",
       "spouse": {"name": "Josephus Xanthic Brooks", "married": "7/21/1922 in Krueger’s home", "picture": "", "description": ""},
-      "dob": "7/23/1902 in Linnton, OR",
+      "dob": "7/23/1902 in Phillips, OR",
       "dod": "3/23/2004 in Hillsboro, OR",
       "picture": "",
       "description": "",
       "children": [
         {
-          "name": "Bobber"
+          "name": "Norma Jean (Brooks Carpenter) Nixon",
+          "spouse": {"name": "Charles Franklin Carpenter", "married": "6/27/1959 in Monterey, CA", "picture": "", "description": ""},
+          "remarried": {"name": "Robert Calvin Nixon", "married": "4/9/1994 in Forest Grove, Oregon", "picture": "", "description": ""},
+          "dob": "12/9/1925 in Phillips, OR",
+          "dod": "",
+          "picture": "",
+          "description": "Oldest grandchild of Caroline and Ferdinand Krueger, born at the home farm."
         },
         {
-          "name": "Bobber"
-        },
-        {
-          "name": "Bobber"
-        },
-        {
-          "name": "Joeson"
+          "name": "Fawn LaRae (Brooks) Hewett",
+          "spouse": {"name": "Gerald Richard Hewett", "married": "9/10/1950 at Bethany First Presbyterian Church in Portland, OR", "picture": "", "description": ""},
+          "dob": "4/11/1929 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "We have lived in Richland, WA 63 years. Gerald Richard (known as Dick) was a pediatric dentist, now retired. Grandma Krueger is the reason we counsins all remain close and appreciated. We looked forward to Christmas - a very special time of year. One year half of us had whooping cough at holiday time and we had to split in two: the haves and the have nots.",
+          "children": [
+            {
+              "name": "David Richard Hewett",
+              "spouse": {"name": "Mary Jo Zabawa", "married": "1/7/1978 in Madison, WI", "picture": "", "description": ""},
+              "dob": "9/30/1953 at Camp Hanford Army Hospital, Richland, WA",
+              "dod": "",
+              "picture": "",
+              "description": "David moved from the NW in 1975 to attend graduate school in Madison, Wisconsin. He married a native Wisconsinite, Mary Jo Zabawa. They raised 2 boys, Jonathan and Alex, in Madison and Sious Falls, SD while working with hospitals. He and Mary Jo are retired and living in Egg Harbor, WI.",
+              "children": [
+                {
+                  "name": "Jonathan Richard Hewett",
+                  "spouse": {"name": "Aubre Clemens", "married": "7/16/2010 in Washington, DC", "picture": "", "description": ""},
+                  "dob": "3/26/1984 in Madison, WI",
+                  "dod": "",
+                  "picture": "",
+                  "description": "We currently live in Denver, CO with our 2 dogs Sammy and Sydney. We have lived in Washington DC and Chicago. Us = fun."
+                },
+                {
+                  "name": "Alex Joseph Hewett",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "6/15/1988 in Madison, WI",
+                  "dod": "",
+                  "picture": "",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "name": "Paul Brian Hewett",
+              "spouse": {"name": "Sandra Lee Miller", "married": "6/5/1982", "picture": "", "description": ""},
+              "dob": "7/14/1955 in Richland, WA",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": [
+                {
+                  "name": "Julie Renae Hewett",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "4/11/1986 at Overlake Hospital in Bellevue, WA",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Jason Paul Hewett",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "2/13/1997 in Seattle, WA",
+                  "dod": "",
+                  "picture": "",
+                  "description": "Currently attending Washington State University; expected graduation in 2019. Dating girlfriend, Anna, since 2013. Conversates about sports passionately.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Sally Jean Hewett",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "10/31/1957 in Richland, WA",
+              "dod": "",
+              "picture": "",
+              "description": "Always a Washingtonian, but loving the Oregon roots, I have lived and practiced dentistry on Bainbridge Island, WA since 1984. Daughter Alisa was born in 1988 and she will soon return to the Seattle area after living in Oakland, CA. I love to garden and travel with my wonderful fiance, Dan Meyer.",
+              "children": [
+                {
+                  "name": "Alisa Catarina Saario",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "5/26/1988 in Seattle, WA",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "name": "Albert Ferdinand Krueger",
-      "spouse": {"name": "Ann Margaret Taennler", "married": "7/27/1930 in Linnton, Oregon", "picture": "", "description": ""},
-      "dob": "12/8/1903 in Linnton, OR",
+      "spouse": {"name": "Ann Margaret Taennler", "married": "7/27/1930 in Phillips, Oregon", "picture": "", "description": ""},
+      "dob": "12/8/1903 in Phillips, OR",
       "dod": "1/10/1988 ",
-      "picture": "",
-      "description": ""
-    },
-    {
-      "name": "Fred Carl Krueger",
-      "spouse": {"name": "Helen Joanna Jensen", "married": "4/3/1936 in Seattle, WA", "picture": "", "description": ""},
-      "dob": "5/1/1905 in Linnton, OR",
-      "dod": "1/7/2000 ",
-      "picture": "",
-      "description": ""
-    },
-    {
-      "name": "Edward George Krueger",
-      "spouse": {"name": "Bernice Siedow", "married": "3/18/1934 in Vancouver, WA", "picture": "", "description": ""},
-      "remaried": {"name": "Loretta", "married": "", "picture": "", "description": ""},
-      "dob": "3/26/1907 in Linnton, OR",
-      "dod": "5/12/1961 in Homer, AK",
       "picture": "",
       "description": "",
       "children": [
         {
-          "name": "Bobber"
+          "name": "Naomi Joan Krueger",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "4/12/1932 in Portland, OR",
+          "dod": "4/14/1932 in Portland, OR",
+          "picture": "",
+          "description": "",
+          "children": []
         },
         {
-          "name": "Bobber"
+          "name": "Albert John Krueger",
+          "spouse": {"name": "Barbara Elaine (Nelson) Krueger", "married": "8/14/1970", "picture": "", "description": ""},
+          "dob": "3/23/1934 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Susan Ann",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "5/6/1953, Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Richard Albert Krueger",
+              "spouse": {"name": "Debbie (Henningsen) Krueger", "married": "8/10/1985 in North Plains, OR", "picture": "", "description": ""},
+              "dob": "5/18/1954, Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": [
+                {
+                  "name": "Stacie (Krueger) Hauth",
+                  "spouse": {"name": "Matt Hauth", "married": "Married in 2011 in North Plains, OR", "picture": "", "description": ""},
+                  "dob": "8/20/1987",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Nancy Carole",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "1/2/1958 Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "Bobber"
-        },
-        {
-          "name": "Joeson"
+          "name": "Marlene Ann (Krueger) Hanks",
+          "spouse": {"name": "Franklin Roosevelt Hanks", "married": "11/1/1956 in Portland OR", "picture": "", "description": ""},
+          "dob": "2/15/1936, Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Michael Jeffery Hanks",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "12/7/1961 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Julie Anna (Hanks) Boothby",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "11/23/1964 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "name": "William Ernest Krueger",
-      "spouse": {"name": "Roberta Howard", "married": "4/12/1934 in Vancouver, WA", "picture": "", "description": ""},
-      "remaried": {"name": "Bonny Hopkins", "married": "", "picture": "", "description": ""},
-      "dob": "5/5/1909 in Linnton, OR",
-      "dod": "5/13/1986 in Portland, OR",
+      "name": "Fred Carl Krueger",
+      "spouse": {"name": "Helen Joanna Jensen", "married": "4/3/1936 in Seattle, WA", "picture": "", "description": ""},
+      "dob": "5/1/1905 in Phillips, OR",
+      "dod": "1/7/2000 ",
+      "picture": "",
+      "description": "",
+      "children": [
+        {
+          "name": "Patricia Ann (Krueger) Brady",
+          "spouse": {"name": "Richard Edward Brady", "married": "7/4/1964 in Los Angeles, CA", "picture": "", "description": ""},
+          "dob": "9/15/1940 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Matthew Patrick Brady",
+              "spouse": {"name": "Kris Brady", "married": "6/15/1985 in Portland, OR", "picture": "", "description": ""},
+              "dob": "4/7/1965 in Cincinnati, Ohio",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": [
+                {
+                  "name": "Trevor Brady",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Tabor Brady",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": [
+                    {
+                      "name": "Stella Brady",
+                      "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                      "dob": "",
+                      "dod": "",
+                      "picture": "",
+                      "description": "",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Alexandra Brady",
+                  "spouse": {"name": "Tyler Cox", "married": "10/7/2016 in Candy, OR", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": [
+                    {
+                      "name": "Addalyn",
+                      "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                      "dob": "",
+                      "dod": "",
+                      "picture": "",
+                      "description": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Michael Andrew Brady",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "6/22/1967 in Washington DC",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Trudy Ann",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "4/3/1969 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Karen Louisa (Krueger) Kosnick",
+          "spouse": {"name": "Ronald S. Kosnick", "married": "4/5/1986 in Hillsboro, OR", "picture": "", "description": ""},
+          "dob": "1/30/1942, Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Edward George Krueger",
+      "spouse": {"name": "Bernice Siedow", "married": "3/18/1934 in Vancouver, WA", "picture": "", "description": ""},
+      "remarried": {"name": "Loretta", "married": "", "picture": "", "description": ""},
+      "dob": "3/26/1907 in Phillips, OR",
+      "dod": "5/12/1961 in Homer, AK",
       "picture": "",
       "description": ""
+    },
+    {
+      "name": "William Ernest Krueger",
+      "spouse": {"name": "Roberta (Howard) Krueger", "married": "4/12/1934 in Vancouver, WA", "picture": "", "description": ""},
+      "remarried": {"name": "Bonny Hopkins", "married": "9/26/1960", "picture": "", "description": ""},
+      "dob": "5/5/1909 in Phillips, OR",
+      "dod": "5/13/1986 in Portland, OR",
+      "picture": "",
+      "description": "",
+      "children": [
+        {
+          "name": "Yvonne Jean (Krueger) Roach",
+          "spouse": {"name": "Sherman Lee Roach", "married": "", "picture": "", "description": ""},
+          "dob": "1/21/1935 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Cindy Lee Roach",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "10/14/1957 in Hillsboro, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Gary Lee Krueger",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "10/8/1938 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": []
+        },
+        {
+          "name": "Dale William Krueger",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "6/2/1940 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": []
+        },
+        {
+          "name": "James E. Krueger",
+          "spouse": {"name": "Patricia L. Krueger", "married": "9/11/1971 in Portland, OR", "picture": "", "description": ""},
+          "dob": "3/16/1946 in Hillsboro, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Tyson Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Molly C. Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "1/2/1981",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Myrtle Marie Krueger",
       "spouse": {"name": "Charles Walter Davis", "married": "5/27/1931 in Portland, OR", "picture": "", "description": ""},
-      "dob": "5/9/1911 in Linnton, OR",
+      "dob": "5/9/1911 in Phillips, OR",
       "dod": "Feb 1954",
       "picture": "",
-      "description": ""
+      "description": "Of the eleven children Myrtle was number 9 with Mabel and Paul to follow.  Besides farm chores she was a key assistant to Grandma in the kitchen and was known for her cooking.  Myrtle graduated from Brooks Hill School and attended Bankey Walker Business School while living with Meel and Jake.  At a dance she met Charles W. (Dave) Davis.  They were married in 1931 and moved to a float house on the Cowlitz River to build the Kelso Moorage.  The Davis’ loved kids and cards (Canasta) and adopted two (kids), Ross in 1940 and Barbara in 1945.  In the early 1950s Myrtle contracted lymphatic cancer and died in 1954.  A most missed mother and gone much too early.  Her favorite song was 'Red Wing'.",
+      "children": [
+        {
+          "name": "Ross E. Davis",
+          "spouse": {"name": "Susan P. Brady", "married": "8/30/1985 in Renton, WA", "picture": "", "description": ""},
+          "dob": "9/5/1940 in Centralia, WA",
+          "dod": "",
+          "picture": "",
+          "description": "Lost my mother (Myrtle) in 1953 and my dad (Dave) in 1984. They gave me a wonderful childhood along the river in Kelso. Educated (twice) at the University of Washington. Five careers (broadcasting, politics, wine, public relations, education). Still working but love semi-retirement at our beach house in Westport.",
+          "children": [
+            {
+              "name": "Susan L (Willis) Empey",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "7/24/1968 in Boise, ID",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Elizabeth J (Davis) Woare",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "1/17/1973 in Sacramento, CA",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Brittany A. Brady-Davis",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "2/6/1988",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Barbara Lane Davis",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "1/9/1945",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Karrie",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "12/25/1963 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Kevin",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "11/16/1965 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Mabel Florence Krueger",
       "spouse": {"name": "Melvin Edwin Stonebrink", "married": "6/28/1936 in Portland, OR", "picture": "", "description": ""},
-      "dob": "1/13/1913 in Linnton, OR",
+      "dob": "1/13/1913 in Phillips, OR",
       "dod": "3/6/1977 in Seaside, OR",
       "picture": "",
       "description": ""
@@ -126,18 +542,388 @@
     {
       "name": "Raymond John Krueger",
       "spouse": {"name": "Leona Jeanette McClure", "married": "9/2/1937 in Hillsboro, OR", "picture": "", "description": ""},
-      "dob": "3/21/1915 in Linnton, OR",
+      "dob": "3/21/1915 in Phillips, OR",
       "dod": "10/19/1988",
       "picture": "",
-      "description": ""
+      "description": "",
+      "children": [
+        {
+          "name": "Robert Ray Krueger",
+          "spouse": {"name": "Bette Eva (Vale) Krueger", "married": "2/20/1965 in Portland, OR", "picture": "", "description": ""},
+          "dob": "4/7/1940 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "Retired and living in La Center, WA.",
+          "children": [
+            {
+              "name": "Shannon Marie (Krueger) Nielson",
+              "spouse": {"name": "Stan Nielson", "married": "", "picture": "", "description": ""},
+              "dob": "8/15/1966 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": [
+                {
+                  "name": "Kristin",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Sheryl Rae (Krueger) Manley",
+              "spouse": {"name": "George 'Tug' Scott Manley", "married": "8/15/1998 in Portland, OR", "picture": "", "description": ""},
+              "dob": "9/11/1967 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "Our family lives in Battle Ground, WA where we stay busy following Scott's basketball and McKenzie's martial arts. Tug retired from the U.S. Air Force and now flies for United Airlines. Sheryl is a parti-time attorney and full-time homemaker. We lvoe relaxing with our pet menagerie of horses and chickens and dogs.",
+              "children": [
+                {
+                  "name": "Scott Robert Manley",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "9/25/2001",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "McKenzie Rae Manley",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "11/11/2004",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Douglas Lee Krueger",
+          "spouse": {"name": "Marjory Lee (Best) Krueger", "married": "8/30/1975 at the Krueger Farm House", "picture": "", "description": ""},
+          "dob": "11/4/1941 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Bryce Douglas Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Elizabeth 'Beth' Mae (Krueger) Pruiett",
+              "spouse": {"name": "Chad Lewis Pruiett", "married": "8/18/2001 in Leavenworth, WA", "picture": "", "description": ""},
+              "dob": "3/17/1978 in Vancouver, WA",
+              "dod": "",
+              "picture": "",
+              "description": "We live in Anacortes, WA surrounded by ocean and mountains. We both grew up as farm kids and work hard to give that life to our girls. In our free time we enjoy working and playing outside. The girls and I love to ride our horses and we all enjoy hiking, fishing and hunting.",
+              "children": [
+                {
+                  "name": "Cassidy Rae Pruiett",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "2/11/2008",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Rylee Elizabeth Pruiett",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "9/6/2011",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Sawyer Ann Pruiett",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "9/6/2011",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Debra Antonia (Krueger) Bauer",
+          "spouse": {"name": "Kevin Paul Bauer", "married": "5/6/2007 in Seaside, OR", "picture": "", "description": ""},
+          "dob": "12/12/1957 in Spokane, WA",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Ryan T. Dietrich",
+              "spouse": {"name": "Kathy S. Dietrich", "married": "", "picture": "", "description": ""},
+              "dob": "9/24/1982 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Jenette M. (Dietrich) Thomas",
+              "spouse": {"name": "Jay M. Thomas", "married": "", "picture": "", "description": ""},
+              "dob": "11/5/1984 in Boise, ID",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": [
+                {
+                  "name": "William Albert 'Tug' Thomas",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Paul Lester Krueger",
       "spouse": {"name": "Mary Corinne Lamberson", "married": "12/13/1941 in Stevenson, WA", "picture": "", "description": ""},
-      "dob": "1/1/1920 in Linnton, OR",
-      "dod": "5/30/1989",
+      "dob": "1/1/1920 at the home on Krueger Hill in Phillips, OR",
+      "dod": "5/30/1989 in Culver, OR",
       "picture": "",
-      "description": ""
+      "description": "For most of their 47 years of marriage, they ran a dairy farm in Culver, OR. Both were very involved in church and community. They raised five children and loved spending time with them. When it was possible to get away, they loved going to Ocean Park and digging clams. And, in later years, enjoyed draft horses.",
+      "children": [
+        {
+          "name": "Carolyn Corinne (Krueger) Fulcher",
+          "spouse": {"name": "Charley Fulcher", "married": "12/3/2005 in Aloha, OR", "picture": "", "description": ""},
+          "dob": "6/6/1944 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "We are snowbirds. We enjoy dancing. We like road trips. One of our most memorable trips was for Honor Flight WWII Vets to visit the WWII memorial in Washington DC.",
+          "children": [
+            {
+              "name": "Jeffery Hamel Frenette",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "10/9/1969 in Hillsboro, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Chrissy (Fronette) Jarvis",
+              "spouse": {"name": "Michael Jarvis", "married": "2/10/1996 in Aloha, OR", "picture": "", "description": ""},
+              "dob": "5/27/1972 in Yamhill, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": [
+                {
+                  "name": "Aubrey Jarvis",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "3/1/1997",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Morgan Jarvis",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "2/4/1999",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Jakob Jarvis",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "8/22/2002",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paula Linda (Krueger) Underwood",
+          "spouse": {"name": "Charles 'Chuck' Henry Underwood", "married": "11/6/1971 in Aloha, OR", "picture": "", "description": ""},
+          "dob": "12/1/1946 in Portland, OR",
+          "dod": "",
+          "picture": "",
+          "description": "After Chuck and I married, I was in nursing for 15 years. After our second child was born I was a stay-at-home mom for 20 years. Then I began work as a hospital receptionist going on 12 years. We built our home outside Sandy, OR in 1978 and still enjoy our peaceful place to this date. We love visiting our faimly in Culver, OR, camping and spending time in Ocean Park, WA.",
+          "children": [
+            {
+              "name": "Mary Ann (Underwood) Zibnack",
+              "spouse": {"name": "Christopher Micahel Zibnack", "married": "6/22/2002 in Sandy, OR", "picture": "", "description": ""},
+              "dob": "9/10/1978 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "After high school, my dream was to move to central Oregon. After spending time with my grandmother while growing up, I knew I would want to live there someday. My dream came true. I married a man from Culver, OR and will always call it home. I work for Central Electric Co-op in Redmond, OR. I love spending time with my family. I enjoy cooking, camping and going to Ocean Park, WA.",
+              "children": [
+                {
+                  "name": "Cale Michael Zibnack",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                },
+                {
+                  "name": "Hannah Louise Zibnack",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Mark Edward Underwood",
+              "spouse": {"name": "Jamie Nichole Jaca Underwood", "married": "4/23/2016", "picture": "", "description": ""},
+              "dob": "11/5/1981 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "After high school I joined USAF. I was trained to be crew chief for F-16 fighter jets. I had great interest in mechanics. After my discharge, I went to school at UTI in AZ and became a master diesel mechanic. I then moved to Culver, OR. I work for Jefferson Co. School Dist in Madras taking care of the bus transportation. I love my family most, but also enjoy hunting, fishing, camping and spending time in Ocean Park, WA.",
+              "children": [
+                {
+                  "name": "Madisen Nicole Underwood",
+                  "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+                  "dob": "",
+                  "dod": "",
+                  "picture": "",
+                  "description": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Randolf Carl Krueger",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "10/21/1951 in Bend, OR",
+          "dod": "",
+          "picture": "",
+          "description": "Love living in Pinetop, AZ. Truck driver and I love my motorcycle and grandkids and great-granddaughter.",
+          "children": [
+            {
+              "name": "Joshua Paul Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "1/6/1972",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Nicole Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "11/26/1974",
+              "dod": "12/9/2007",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Timothy Paul Krueger",
+          "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+          "dob": "1/2/1960 in Bend, OR",
+          "dod": "2/7/2012 in Phoenix, AZ",
+          "picture": "",
+          "description": "He loved his children and was a farmer in Culver, Oregon.",
+          "children": [
+            {
+              "name": "Jenna Leanne Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "12/12/1986 in Madras, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Paul Mitchell Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "9/17/1989 in Madras, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "Jessica Janiece Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "6/28/1991 in Madras, OR",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Keith Edward Krueger",
+          "spouse": {"name": "Rebecca 'Becki' Elizabeth (Runckle) Krueger", "married": "12/21/1985 in Portland, OR", "picture": "", "description": ""},
+          "dob": "11/2/1962 in Bend, OR",
+          "dod": "",
+          "picture": "",
+          "description": "",
+          "children": [
+            {
+              "name": "Emmaline Elizabeth Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "6/13/1992 in Tuscon, AZ",
+              "dod": "",
+              "picture": "",
+              "description": "I'm currently living in Seattle working as a hair stylist in Bellevue on the eastside. Grew up in Bend (mostly). I'm the oldest of 3 kids of Becki and Keith. I love spending time with family and friends, being outsdie, up for anything, love to have fun and laugh!",
+              "children": []
+            },
+            {
+              "name": "Jillian Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "",
+              "dod": "",
+              "picture": "",
+              "description": "",
+              "children": []
+            },
+            {
+              "name": "John Paul 'J.P.' Krueger",
+              "spouse": {"name": "", "married": "", "picture": "", "description": ""},
+              "dob": "10/20/1997 in Portland, OR",
+              "dod": "",
+              "picture": "",
+              "description": "Big happy guy. Excited to start school at Pepperdine. Passionate about youth ministries, active living and family.",
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }

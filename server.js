@@ -1,3 +1,4 @@
+console.log('started');
 var requestProxy = require('express-request-proxy'),
   express = require('express'),
   nodemailer = require('nodemailer'),
@@ -7,7 +8,6 @@ var requestProxy = require('express-request-proxy'),
   port = process.env.PORT || 3000,
   app = express(),
   path = require('path');
-
 
 //function to get all directories in a directory
 function getDirectories(srcpath) {
